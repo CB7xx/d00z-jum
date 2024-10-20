@@ -12,7 +12,7 @@ for i,v in pairs(game.Players:GetPlayers()) do
      s.Looped = true
      s:Play()
      print("Screamed "..v.Name)
-     while wait(15.0) do
+     while wait(12.8) do
  
       newimage.Parent:Destroy()
  
